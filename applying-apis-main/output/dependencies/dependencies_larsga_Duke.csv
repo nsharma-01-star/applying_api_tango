@@ -1,0 +1,19 @@
+groupId,artifactId,version,mcrCategories,mcrTags,downloaded,dlVersIfDiff,jarURL,pathToJAR
+com.h2database,h2,1.3.176,Embedded SQL Databases,"embedded,database,sql",true,,https://repo1.maven.org/maven2/com/h2database/h2/1.3.176/h2-1.3.176.jar,temp/dependencies/larsga/Duke/com/h2database/h2/1.3.176/h2-1.3.176.jar
+org.apache.lucene,lucene-analyzers-common,4.0.0,,"lucene,analyzer,apache,index",true,,https://repo1.maven.org/maven2/org/apache/lucene/lucene-analyzers-common/4.0.0/lucene-analyzers-common-4.0.0.jar,temp/dependencies/larsga/Duke/org/apache/lucene/lucene-analyzers-common/4.0.0/lucene-analyzers-common-4.0.0.jar
+no.priv.garshol.duke,duke-mongodb,1.3-SNAPSHOT,null,null,false,null,,
+org.mongodb,mongo-java-driver,2.12.2,MongoDB Clients,"database,nosql,driver,client,mongodb",true,,https://repo1.maven.org/maven2/org/mongodb/mongo-java-driver/2.12.2/mongo-java-driver-2.12.2.jar,temp/dependencies/larsga/Duke/org/mongodb/mongo-java-driver/2.12.2/mongo-java-driver-2.12.2.jar
+com.fasterxml.jackson.core,jackson-core,2.3.2,JSON Libraries,json,true,,https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.2/jackson-core-2.3.2.jar,temp/dependencies/larsga/Duke/com/fasterxml/jackson/core/jackson-core/2.3.2/jackson-core-2.3.2.jar
+org.apache.lucene,lucene-spatial,4.0.0,,"lucene,spatial,apache,index",true,,https://repo1.maven.org/maven2/org/apache/lucene/lucene-spatial/4.0.0/lucene-spatial-4.0.0.jar,temp/dependencies/larsga/Duke/org/apache/lucene/lucene-spatial/4.0.0/lucene-spatial-4.0.0.jar
+no.priv.garshol.duke,duke-server,1.3-SNAPSHOT,null,null,false,null,,
+no.priv.garshol.duke,duke-mapdb,1.3-SNAPSHOT,null,null,false,null,,
+org.apache.lucene,lucene-core,4.0.0,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index",true,,https://repo1.maven.org/maven2/org/apache/lucene/lucene-core/4.0.0/lucene-core-4.0.0.jar,temp/dependencies/larsga/Duke/org/apache/lucene/lucene-core/4.0.0/lucene-core-4.0.0.jar
+org.codehaus.fabric3.api,commonj,1.1.1,,"codehaus,api",true,,https://repo1.maven.org/maven2/org/codehaus/fabric3/api/commonj/1.1.1/commonj-1.1.1.jar,temp/dependencies/larsga/Duke/org/codehaus/fabric3/api/commonj/1.1.1/commonj-1.1.1.jar
+no.priv.garshol.duke,duke-core,1.3-SNAPSHOT,null,null,false,null,,
+junit,junit,4.11,Testing Frameworks,"testing,junit",true,,https://repo1.maven.org/maven2/junit/junit/4.11/junit-4.11.jar,temp/dependencies/larsga/Duke/junit/junit/4.11/junit-4.11.jar
+org.elasticsearch,elasticsearch,1.4.4,ElasticSearch Clients,"server,elasticsearch,elastic,client,search",true,,https://repo1.maven.org/maven2/org/elasticsearch/elasticsearch/1.4.4/elasticsearch-1.4.4.jar,temp/dependencies/larsga/Duke/org/elasticsearch/elasticsearch/1.4.4/elasticsearch-1.4.4.jar
+javax.servlet,servlet-api,2.4,Java Specifications,"standard,servlet,javax,api,specs",true,,https://repo1.maven.org/maven2/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar,temp/dependencies/larsga/Duke/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar
+no.priv.garshol.duke,duke-es,1.3-SNAPSHOT,null,null,false,null,,
+no.priv.garshol.duke,duke-json,1.3-SNAPSHOT,null,null,false,null,,
+no.priv.garshol.duke,duke-lucene,1.3-SNAPSHOT,null,null,false,null,,
+org.mapdb,mapdb,0.9.13,Collections,"collections,structures",true,,https://repo1.maven.org/maven2/org/mapdb/mapdb/0.9.13/mapdb-0.9.13.jar,temp/dependencies/larsga/Duke/org/mapdb/mapdb/0.9.13/mapdb-0.9.13.jar
