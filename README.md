@@ -13,7 +13,9 @@ Shweta Mishra (smishra@uni-koblenz.de )
 ## Input data: 
 Java project with Maven Collect repositories from Git Only considering Repositories that have At least 100 stars At least 100 commits At least two contributors At least one source directory src/main/java
 
-## Output data: Collected repositories
+## Output data: 
+Collected repositories
+Please find Temp folder which contains all the output jar files for the collected repo - https://drive.google.com/drive/folders/1jn0jsFZPQl-6vnHop8-VUNA1Lmps3DD5?usp=sharing
 
 ## Findings of replication 
 ### Process delta: 
