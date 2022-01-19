@@ -37,9 +37,16 @@ Collected repositories
   *  repositories_collected.csv - We found 4288 repositories.
   *  repositories_with_dependencies.csv - We found 3783 repositories with dependencies.
   *  repositories_with_mcrTags.csv - Original work found 3532 repositories with mcrTags. We found 3766 repositories with mcrTags.
+  
 * On running dependencies_counter.py on the csv files generated during the data collection replication part, we were able to find the count of all the four dependency pair mentioned in the original work. 
+
   * The dependency pair count of the original work is shown in the image below
+   ![original work](https://github.com/nsharma-01-star/applying_api_tango/blob/main/applying-apis-main/depenedency_pair_replication_team_tango/output_images/original_output.png)
+   
   * The replicated result consisting of dependency pair count by our team tango is shown below
+   ![replicated_work](https://github.com/nsharma-01-star/applying_api_tango/blob/main/applying-apis-main/depenedency_pair_replication_team_tango/output_images/replication_output_tango.png)
+   
+   * when compared to original work, we found larger count for dependency pairs as shown in the above images.
   
 
 ### Implementation of replication: 
